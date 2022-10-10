@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background-color: rgb(214, 218, 216);
+}
+div{
+    font-family: sans-serif;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #ffffff;
+    width: 250px;
+    margin: auto;
+}
+h3{
+    font-weight: 900;
+    
+}
+p{
+    color: rgb(70, 70, 70);
+}
+.qrimg{
+    width: 100%;
+    border-radius: 10px;
+}
